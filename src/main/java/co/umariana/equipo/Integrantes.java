@@ -27,6 +27,7 @@ public final class Integrantes {
 
         lista.add(new Tarjeta("cbotina", "Carlos Botina", "Bienvenidos al trabajo en equipo. Agreguen su tarjeta!", "#FFD166"));
         // >>> AGREGUE SU TARJETA DEBAJO DE ESTA LÍNEA <<<
+        lista.add(new Tarjeta("carlos-bc", "Alberto Carpio", "Mi pueblo no se toca!", "#46b811"));
 
         return lista;
     }
